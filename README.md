@@ -84,7 +84,7 @@ A simple and cost-effective *Laser Security Alarm System* designed using basic e
 
 ## 📄 Project Report
 
-  [Click here to view the full project report (PDF)](https://github.com/mnavya-17/Laser-Security-Alarm-System/raw/main/docs/Laser%20Security%20Alarm%20System%20report.pdf)
+  [Click here to view the full project report (PDF)](https://github.com/mnavya-17/Laser-Security-Alarm-System/commit/6888886d19863b7d20937593e6ebf0604b337c96#diff-4435c0078a3c2931dd239360708f2c5728a555b91137ec559c6df3e32f29ce50)
 ---
 
 ## 🧑‍💻 Author & Credits
