@@ -90,8 +90,7 @@ A simple and cost-effective *Laser Security Alarm System* designed using basic e
 
 ## 🧑‍💻 Author & Credits
 
-- *Developed by:* [Your Name]  
-- *College:* Sapthagiri College of Engineering, Bengaluru  
+- *Developed by:* [Navya M]   
 - *Guided by:* YouTube resource: [Laser Security System Video](https://youtu.be/n-Phvv4F59c?si=Q_RM8hCkQ0_x3piY) (used for learning/inspiration only)
 
 ---
