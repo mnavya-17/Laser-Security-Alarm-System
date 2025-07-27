@@ -84,8 +84,7 @@ A simple and cost-effective *Laser Security Alarm System* designed using basic e
 
 ## 📄 Project Report
 
-Full mini project report available here:  
-📄 Laser Security Alarm System.pdf
+ [Click here to view the full project report (PDF)](Laser%20Security%2Alarm%20System.pdf)
 
 ---
 
